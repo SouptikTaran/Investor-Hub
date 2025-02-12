@@ -1,0 +1,44 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+enum UserRole {
+  USER
+  INVESTOR
+  MENTOR
+}
+
+enum InvestorMentorType {
+  Investor
+  Mentor
+}
+
+model User {
+  id                      Int                @id @default(autoincrement())
+  email                   String             @unique
+  password                String
+  role                    UserRole
+  createdAt               DateTime           @default(now())
+  profileId               Int?               @unique
+  credit                  Int                @default(5)
+  investorMentorProfile   InvestorMentor?    @relation(fields: [profileId], references: [id])
+  freeTrial               Boolean            @default(false)
+
+
+  @@index([email])
+}
+
+model InvestorMentor {
+  id        Int                  @id @default(autoincrement())
+  name      String
+  category  String
+  type      InvestorMentorType
+  user      User?
+
+  @@index([category, type])
+}
