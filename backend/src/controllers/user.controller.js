@@ -167,8 +167,8 @@ export const getInvestorsAndMentors = async (req, res) => {
 
         console.log(req.user.email + " " + userCredit.credit);
 
-        if (userCredit.credit <= 0) {
-            sendEmail(req.user.email, 'No Credits Left', 'You are running low on credits, please recharge to keep enjoying our services.');
+        if (userCredit.credit <= 0 && userCredit.freeTrial == false) {
+            sendEmail(req.user.email, 'No Credits Left', 'You are running low on credits, please recharge to keep enjoying our services. To get 5 more Free credits , send a mail on this email id with subject `Recharge with 5 credits` to get 5 more free credits ');
             return res.json({ msg: "No credits Left" });
         }
 
@@ -185,7 +185,7 @@ export const getInvestorsAndMentors = async (req, res) => {
             geminiResponse = await classifyQueryToCategory(query, categoryList);
         } catch (error) {
             logger.error("Error classifying query:", error);
-            return res.status(500).json({ error: 'Failed to classify query' });
+            return res.json({ msg: 'Failed to classify query' });
         }
 
         console.log('Gemini Response:', geminiResponse);
@@ -217,7 +217,7 @@ export const getInvestorsAndMentors = async (req, res) => {
         return res.status(200).json({ users });
     } catch (err) {
         logger.error('Error fetching users:', err);
-        return res.status(500).json({ error: 'Internal server error' });
+        return res.status(500).json({ msg: 'Internal server error' });
     }
 };
 

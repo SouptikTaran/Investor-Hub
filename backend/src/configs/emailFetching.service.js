@@ -3,6 +3,7 @@ import { simpleParser } from 'mailparser';
 import dotenv from 'dotenv';
 import { PrismaClient } from '@prisma/client';
 import sendEmail from './nodemailer.service.js';
+import logger from './logger.js';
 
 dotenv.config();
 
@@ -50,7 +51,7 @@ export default async function checkEmailForSubject() {
                             try {
                                 const parsed = await simpleParser(stream);
                                 const senderEmail = parsed.from.value[0].address;
-                                logger.info(`Recharge request detected from: ${senderEmail}`);
+                                console.info(`Recharge request detected from: ${senderEmail}`);
 
                                 const userCredit = await prisma.user.findUnique({
                                     where: { email: senderEmail }

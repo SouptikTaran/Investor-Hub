@@ -183,3 +183,200 @@
 {"level":"info","message":"Running the email fetching cron job..."}
 {"level":"info","message":"Running the email fetching cron job..."}
 {"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"error","message":"Error running cron job: Timed out while authenticating with server","source":"timeout-auth","stack":"Error: Timed out while authenticating with server\n    at Timeout._onTimeout (D:\\Company Assingment\\Startup network\\backend\\node_modules\\imap\\lib\\Connection.js:139:17)\n    at listOnTimeout (node:internal/timers:594:17)\n    at process.processTimers (node:internal/timers:529:7)"}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"error","message":"Error running cron job: Timed out while authenticating with server","source":"timeout-auth","stack":"Error: Timed out while authenticating with server\n    at Timeout._onTimeout (D:\\Company Assingment\\Startup network\\backend\\node_modules\\imap\\lib\\Connection.js:139:17)\n    at listOnTimeout (node:internal/timers:594:17)\n    at process.processTimers (node:internal/timers:529:7)"}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"error","message":"Error running cron job: Timed out while authenticating with server","source":"timeout-auth","stack":"Error: Timed out while authenticating with server\n    at Timeout._onTimeout (D:\\Company Assingment\\Startup network\\backend\\node_modules\\imap\\lib\\Connection.js:139:17)\n    at listOnTimeout (node:internal/timers:594:17)\n    at process.processTimers (node:internal/timers:529:7)"}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"error","message":"Error running cron job: Timed out while authenticating with server","source":"timeout-auth","stack":"Error: Timed out while authenticating with server\n    at Timeout._onTimeout (D:\\Company Assingment\\Startup network\\backend\\node_modules\\imap\\lib\\Connection.js:139:17)\n    at listOnTimeout (node:internal/timers:594:17)\n    at process.processTimers (node:internal/timers:529:7)"}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"error","message":"Error running cron job: Timed out while authenticating with server","source":"timeout-auth","stack":"Error: Timed out while authenticating with server\n    at Timeout._onTimeout (D:\\Company Assingment\\Startup network\\backend\\node_modules\\imap\\lib\\Connection.js:139:17)\n    at listOnTimeout (node:internal/timers:594:17)\n    at process.processTimers (node:internal/timers:529:7)"}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"error","message":"Error running cron job: Timed out while authenticating with server","source":"timeout-auth","stack":"Error: Timed out while authenticating with server\n    at Timeout._onTimeout (D:\\Company Assingment\\Startup network\\backend\\node_modules\\imap\\lib\\Connection.js:139:17)\n    at listOnTimeout (node:internal/timers:594:17)\n    at process.processTimers (node:internal/timers:529:7)"}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"error","message":"Error running cron job: Timed out while authenticating with server","source":"timeout-auth","stack":"Error: Timed out while authenticating with server\n    at Timeout._onTimeout (D:\\Company Assingment\\Startup network\\backend\\node_modules\\imap\\lib\\Connection.js:139:17)\n    at listOnTimeout (node:internal/timers:594:17)\n    at process.processTimers (node:internal/timers:529:7)"}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"error","message":"Error running cron job: Timed out while authenticating with server","source":"timeout-auth","stack":"Error: Timed out while authenticating with server\n    at Timeout._onTimeout (D:\\Company Assingment\\Startup network\\backend\\node_modules\\imap\\lib\\Connection.js:139:17)\n    at listOnTimeout (node:internal/timers:594:17)\n    at process.processTimers (node:internal/timers:529:7)"}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"error","message":"Error running cron job: Timed out while authenticating with server","source":"timeout-auth","stack":"Error: Timed out while authenticating with server\n    at Timeout._onTimeout (D:\\Company Assingment\\Startup network\\backend\\node_modules\\imap\\lib\\Connection.js:139:17)\n    at listOnTimeout (node:internal/timers:594:17)\n    at process.processTimers (node:internal/timers:529:7)"}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"error","message":"Error running cron job: Timed out while authenticating with server","source":"timeout-auth","stack":"Error: Timed out while authenticating with server\n    at Timeout._onTimeout (D:\\Company Assingment\\Startup network\\backend\\node_modules\\imap\\lib\\Connection.js:139:17)\n    at listOnTimeout (node:internal/timers:594:17)\n    at process.processTimers (node:internal/timers:529:7)"}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"error","message":"Error running cron job: Timed out while authenticating with server","source":"timeout-auth","stack":"Error: Timed out while authenticating with server\n    at Timeout._onTimeout (D:\\Company Assingment\\Startup network\\backend\\node_modules\\imap\\lib\\Connection.js:139:17)\n    at listOnTimeout (node:internal/timers:594:17)\n    at process.processTimers (node:internal/timers:529:7)"}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"error","message":"Error running cron job: Timed out while authenticating with server","source":"timeout-auth","stack":"Error: Timed out while authenticating with server\n    at Timeout._onTimeout (D:\\Company Assingment\\Startup network\\backend\\node_modules\\imap\\lib\\Connection.js:139:17)\n    at listOnTimeout (node:internal/timers:594:17)\n    at process.processTimers (node:internal/timers:529:7)"}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"error","message":"Error running cron job: Timed out while authenticating with server","source":"timeout-auth","stack":"Error: Timed out while authenticating with server\n    at Timeout._onTimeout (D:\\Company Assingment\\Startup network\\backend\\node_modules\\imap\\lib\\Connection.js:139:17)\n    at listOnTimeout (node:internal/timers:594:17)\n    at process.processTimers (node:internal/timers:529:7)"}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"error","message":"Error running cron job: Timed out while authenticating with server","source":"timeout-auth","stack":"Error: Timed out while authenticating with server\n    at Timeout._onTimeout (D:\\Company Assingment\\Startup network\\backend\\node_modules\\imap\\lib\\Connection.js:139:17)\n    at listOnTimeout (node:internal/timers:594:17)\n    at process.processTimers (node:internal/timers:529:7)"}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"error","message":"Error running cron job: Timed out while authenticating with server","source":"timeout-auth","stack":"Error: Timed out while authenticating with server\n    at Timeout._onTimeout (D:\\Company Assingment\\Startup network\\backend\\node_modules\\imap\\lib\\Connection.js:139:17)\n    at listOnTimeout (node:internal/timers:594:17)\n    at process.processTimers (node:internal/timers:529:7)"}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"error","message":"Error running cron job: Timed out while authenticating with server","source":"timeout-auth","stack":"Error: Timed out while authenticating with server\n    at Timeout._onTimeout (D:\\Company Assingment\\Startup network\\backend\\node_modules\\imap\\lib\\Connection.js:139:17)\n    at listOnTimeout (node:internal/timers:594:17)\n    at process.processTimers (node:internal/timers:529:7)"}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"error","message":"Error running cron job: Timed out while authenticating with server","source":"timeout-auth","stack":"Error: Timed out while authenticating with server\n    at Timeout._onTimeout (D:\\Company Assingment\\Startup network\\backend\\node_modules\\imap\\lib\\Connection.js:139:17)\n    at listOnTimeout (node:internal/timers:594:17)\n    at process.processTimers (node:internal/timers:529:7)"}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"error","message":"Error running cron job: Timed out while authenticating with server","source":"timeout-auth","stack":"Error: Timed out while authenticating with server\n    at Timeout._onTimeout (D:\\Company Assingment\\Startup network\\backend\\node_modules\\imap\\lib\\Connection.js:139:17)\n    at listOnTimeout (node:internal/timers:594:17)\n    at process.processTimers (node:internal/timers:529:7)"}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"error","message":"Error running cron job: Timed out while authenticating with server","source":"timeout-auth","stack":"Error: Timed out while authenticating with server\n    at Timeout._onTimeout (D:\\Company Assingment\\Startup network\\backend\\node_modules\\imap\\lib\\Connection.js:139:17)\n    at listOnTimeout (node:internal/timers:594:17)\n    at process.processTimers (node:internal/timers:529:7)"}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"error","message":"Error running cron job: Timed out while authenticating with server","source":"timeout-auth","stack":"Error: Timed out while authenticating with server\n    at Timeout._onTimeout (D:\\Company Assingment\\Startup network\\backend\\node_modules\\imap\\lib\\Connection.js:139:17)\n    at listOnTimeout (node:internal/timers:594:17)\n    at process.processTimers (node:internal/timers:529:7)"}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"error","message":"Error running cron job: Timed out while authenticating with server","source":"timeout-auth","stack":"Error: Timed out while authenticating with server\n    at Timeout._onTimeout (D:\\Company Assingment\\Startup network\\backend\\node_modules\\imap\\lib\\Connection.js:139:17)\n    at listOnTimeout (node:internal/timers:594:17)\n    at process.processTimers (node:internal/timers:529:7)"}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"error","message":"Error running cron job: Timed out while authenticating with server","source":"timeout-auth","stack":"Error: Timed out while authenticating with server\n    at Timeout._onTimeout (D:\\Company Assingment\\Startup network\\backend\\node_modules\\imap\\lib\\Connection.js:139:17)\n    at listOnTimeout (node:internal/timers:594:17)\n    at process.processTimers (node:internal/timers:529:7)"}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"error","message":"Error running cron job: Timed out while authenticating with server","source":"timeout-auth","stack":"Error: Timed out while authenticating with server\n    at Timeout._onTimeout (D:\\Company Assingment\\Startup network\\backend\\node_modules\\imap\\lib\\Connection.js:139:17)\n    at listOnTimeout (node:internal/timers:594:17)\n    at process.processTimers (node:internal/timers:529:7)"}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"error","message":"Error running cron job: Timed out while authenticating with server","source":"timeout-auth","stack":"Error: Timed out while authenticating with server\n    at Timeout._onTimeout (D:\\Company Assingment\\Startup network\\backend\\node_modules\\imap\\lib\\Connection.js:139:17)\n    at listOnTimeout (node:internal/timers:594:17)\n    at process.processTimers (node:internal/timers:529:7)"}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"error","message":"Error running cron job: Timed out while authenticating with server","source":"timeout-auth","stack":"Error: Timed out while authenticating with server\n    at Timeout._onTimeout (D:\\Company Assingment\\Startup network\\backend\\node_modules\\imap\\lib\\Connection.js:139:17)\n    at listOnTimeout (node:internal/timers:594:17)\n    at process.processTimers (node:internal/timers:529:7)"}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"error","message":"Error running cron job: Timed out while authenticating with server","source":"timeout-auth","stack":"Error: Timed out while authenticating with server\n    at Timeout._onTimeout (D:\\Company Assingment\\Startup network\\backend\\node_modules\\imap\\lib\\Connection.js:139:17)\n    at listOnTimeout (node:internal/timers:594:17)\n    at process.processTimers (node:internal/timers:529:7)"}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"error","message":"Error running cron job: Timed out while authenticating with server","source":"timeout-auth","stack":"Error: Timed out while authenticating with server\n    at Timeout._onTimeout (D:\\Company Assingment\\Startup network\\backend\\node_modules\\imap\\lib\\Connection.js:139:17)\n    at listOnTimeout (node:internal/timers:594:17)\n    at process.processTimers (node:internal/timers:529:7)"}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"warn","message":"Gemini returned an invalid category."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}
+{"level":"info","message":"Running the email fetching cron job..."}

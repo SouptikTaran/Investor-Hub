@@ -7,14 +7,24 @@ const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
 
 export default async function classifyQueryToCategory(query, categories) {
   const prompt = `
-    You are an expert at understanding text and categorizing it into predefined categories. 
-    Given the following categories: ${categories.join(", ")}, 
-    classify the following query into one of them:
+  You are an expert in text classification. Your task is to categorize the given query into one of the predefined categories: 
+  ${categories.join(", ")}.
 
-    Query: "${query}"
+  **Instructions:**
+  - Analyze the query carefully and match it to the most relevant category.
+  - If the query is ambiguous, incorrect, or does not fit any category, return "Unknown".
+  - Handle common phrasing variations intelligently.
 
-    Provide only the category as your response.
-  `;
+  **Examples:**
+  - "Please specify investors for blockchain" → Blockchain
+  - "Can you suggest better mentors for my project of ML?" → AI
+  - "I want to learn about cloud storage" → Cloud Computing
+  - "Tell me about marketing strategies" → Unknown
+
+  **Query:** "${query}"
+
+  **Response:** Provide only the category name as your response.
+`;
 
   try {
     const result = await model.generateContent(prompt);
