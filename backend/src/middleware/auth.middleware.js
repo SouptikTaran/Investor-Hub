@@ -1,7 +1,7 @@
 import jwt from "jsonwebtoken";
 import dotenv from "dotenv";
 import { PrismaClient } from "@prisma/client";
-import logger from "../configs/logger";
+import logger from "../configs/logger.js";
 
 dotenv.config();
 const prisma = new PrismaClient();
