@@ -6,7 +6,7 @@ import { ToastContainer } from 'react-toastify';
 import { GoogleOAuthProvider } from '@react-oauth/google';
 const clientId = import.meta.env.VITE_GOOGLE_ID;
 
-
+console.log(import.meta.env.VITE_API_URL)
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
     <GoogleOAuthProvider clientId={clientId}>

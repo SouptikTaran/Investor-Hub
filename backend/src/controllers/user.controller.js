@@ -1,5 +1,6 @@
 import { userSignUpSchema } from '../schema/user.schema.js';
-import { PrismaClient, UserRole, InvestorMentorType } from '@prisma/client';
+import pkg from '@prisma/client';
+const { PrismaClient, UserRole, InvestorMentorType } = pkg;
 import bcrypt, { compareSync } from 'bcrypt';
 import jwt from 'jsonwebtoken';
 import classifyQueryToCategory from '../configs/gemini.service.js';

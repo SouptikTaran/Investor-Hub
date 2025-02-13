@@ -14,7 +14,7 @@ COPY . .
 RUN npm run build
 
 # Stage 2: Run with Node.js
-FROM node:18-slim
+FROM node:18-alpine
 
 WORKDIR /app
 

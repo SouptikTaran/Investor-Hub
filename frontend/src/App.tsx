@@ -5,8 +5,11 @@ import { HomePage } from './pages/HomePage';
 import AuthPage from './pages/AuthPage';
 import DashboardPage from './pages/DashboardPage';
 import PrivateRoute from './components/PrivateRoute';
+import Loader from './components/Loader';
 
 const App = () => {
+  console.log(import.meta.env.VITE_API_URL)
+
   const [token, setToken] = useState<string | null>(localStorage.getItem('token'));
   const [user, setUser] = useState<{ name: string; email: string } | null>(null);
   const [loading, setLoading] = useState<boolean>(true); // Prevents immediate redirect on refresh
@@ -66,7 +69,7 @@ const App = () => {
     setUser(null);
   };
 
-  if (loading) return <div>Loading...</div>; // Prevent redirect until user state is determined
+  if (loading) return <Loader/>; // Prevent redirect until user state is determined
 
   return (
     <Router>
